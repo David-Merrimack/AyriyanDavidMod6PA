@@ -22,7 +22,10 @@ To generate javadocs:
   * javadoc -private Sorted_Linked_List.java
   (takes into account methods that are private)
 
-## Code Example
+## Code Example for Project_04
+* Enter an integer: 'put-your-code-here'
+* Did you want to enter another number? (yes/no): 'put-your-code-here'
+* LinkedList: ['user-inputted-numbers']
 
 
 ## Project_05 (General Info)
@@ -43,3 +46,9 @@ To generate javadocs:
 
   * javadoc -private SortedStack.java
   (takes into account methods that are private)
+
+## Code Example for Project_05
+* Enter an integer: 'put-your-code-here'
+* Did you want to enter another number? (yes/no): 'put-your-code-here'
+* Stack: ['user-inputted-numbers']
+
